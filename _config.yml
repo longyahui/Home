@@ -11,9 +11,9 @@ title                    : "Yahui's Homepage"
 title_separator          : "-"
 name                     : &name "Long Yahui"
 description              : &description "personal website"
-url                      : https://longyahui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://longyahui.github.io/Home/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "longyahui/longyahui.github.io"
+repository               : "longyahui/Home"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
