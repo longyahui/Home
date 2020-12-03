@@ -20,12 +20,13 @@ Conferences and Journals
    - Journal: Accepted by **Briefings in Bioinformatics**, 2020.
 4. Yahui Long and Jiawei Luo. "Association mining to identify microbe drug interactions based on heterogeneous network embedding representation" 
    - Journal: **IEEE Journal of Biomedical and Health Informatics (J-BHI)**, 2020.
-5. Yu Zhang, Yahui Long, Rui Yin, Chee Koeng Kwoh. "DL-CRISPR: A Deep Learning Method for Off-Target Activity Prediction in CRISPR/Cas9 With Data Augmentation"
+5. Yahui Long, Yu Zhang, Min Wu, Shaoliang Peng, Chee-Keong Kwoh, Jiawei Luo and Xiaoli Li. "Predicting Drugs for COVID-19/SARS-CoV-2 via Heterogeneous Graph Attention Networks"
+   - Conference: Accepted by **IEEE International Conference on Bioinformatics and Biomedicine (BIBM)**, 2020.   
+6. Yu Zhang, Yahui Long, Rui Yin, Chee Koeng Kwoh. "DL-CRISPR: A Deep Learning Method for Off-Target Activity Prediction in CRISPR/Cas9 With Data Augmentation"
    - Journal: **IEEE Access**, 2020
-6. Yu Zhang, Yahui Long, Chee-Keong, Kwoh. "Deep learning based DNA: RNA triplex forming potential prediction"
+7. Yu Zhang, Yahui Long, Chee-Keong, Kwoh. "Deep learning based DNA: RNA triplex forming potential prediction"
    -Journal: **BMC Bioinformatics**, 2020. 
-7. Yahui Long, Yu Zhang, Min Wu, Shaoliang Peng, Chee-Keong Kwoh, Jiawei Luo and Xiaoli Li. "Predicting Drugs for COVID-19/SARS-CoV-2 via Heterogeneous Graph Attention Networks"
-   - Conference: Accepted by **IEEE International Conference on Bioinformatics and Biomedicine (BIBM)**, 2020.
+
 8. Yahui Long and Jiawei Luo. "WMGHMDA: a novel weighted meta-graph-based model for predicting human microbe-disease association on heterogeneous information network"   
    - Journal: **BMC Bioinformatics**, 2019.
 9. Jiawei Luo and Yahui Long. "NTSHMDA: Prediction of human microbe-disease association based on random walk by integrating network topological similarity"
