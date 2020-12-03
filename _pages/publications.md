@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Conferences and Journals"
 permalink: /publications/
 author_profile: true
 redirect_from:
@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Conferences and Journals
-======
 1. Yahui Long, Min Wu, Chee-Keong Kwoh Jiawei Luo and Xiaoli Li. "Predicting Human Microbe-Drug Associations via Graph Convolutional Network with Conditional Random Field"
    - Journal: **Bioinformatics**. 2020.
 2. Yahui Long, Min Wu, Yong Liu, Chee-Keong, Kwoh, Jiawei Luo and Xiaoli Li. "Ensembling graph attention networks for human microbe-drug association prediction"
