@@ -11,11 +11,11 @@ redirect_from:
 I am a candidate Ph.D at College of Computer Science and Electronic Engineering, Hunan University, China, supervised by Prof. [Luo Jiawei](http://csee.hnu.edu.cn/people/luojiawei). I am also currently a joint candidate Ph.D in Nanyang Technological University and A*STAR, Singapore, under the supervison of Prof. [Kwoh Chee-Keong](https://personal.ntu.edu.sg/asckkwoh/), Prof. [Li Xiaoli](https://personal.ntu.edu.sg/xlli/) and Dr. [Wu Min](https://sites.google.com/site/wumincf/). I received my M.S. degree from Hunan University in 2017.
 
 # Research Interests
-## Machine Learning
+Machine Learning
 - Graph Neural Network for large-scale graph mining
 - Transfer Learning
 
-## Bioinformatics and Computational Biology
+Bioinformatics and Computational Biology
 - Microbiome data analysis
 - Single-cell sequencing data analysis
 
