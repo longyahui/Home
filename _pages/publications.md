@@ -27,13 +27,13 @@ Conferences and Journals
 7. Yahui Long, Yu Zhang, Min Wu, Shaoliang Peng, Chee-Keong Kwoh, Jiawei Luo and Xiaoli Li. "Predicting Drugs for COVID-19/SARS-CoV-2 via Heterogeneous Graph Attention Networks"
    - Conference: Accepted by **IEEE International Conference on Bioinformatics and Biomedicine (BIBM)**, 2020.
 8. Yahui Long and Jiawei Luo. "WMGHMDA: a novel weighted meta-graph-based model for predicting human microbe-disease association on heterogeneous information network"   
-   - Journal: **BMC Bioinformatics**. 2019.
+   - Journal: **BMC Bioinformatics**, 2019.
 9. Jiawei Luo and Yahui Long. "NTSHMDA: Prediction of human microbe-disease association based on random walk by integrating network topological similarity"
    - Journal: **IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)**, 2018.
 10. Caipin Liu, Yahui Long, Jianxu Mao, Hui Zhang, Ruizhi Huang and Yang Dai. "Energy-efficient multi-focus image fusion based on neighbor distance and morphology"
-   - Journal: **Journal of Ambient Intelligence and Humanized Computing**. 2018.
+   - Journal: **Journal of Ambient Intelligence and Humanized Computing**, 2018.
 11. Caipin Liu, Yahui Long and Jianxu Mao. "Energy-efficient multi-focus image fusion based on neighbor distance and morphology"
-   - Journal: **Optik**. 2016.   
+   - Journal: **Optik**, 2016.   
 
   
   
