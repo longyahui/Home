@@ -13,6 +13,7 @@ I am a candidate Ph.D at College of Computer Science and Electronic Engineering,
 # Research Interests
 ## Machine Learning
 - Graph Neural Network for large-scale graph mining
+- Transfer Learning
 
 ## Bioinformatics and Computational Biology
 - Microbiome data analysis
