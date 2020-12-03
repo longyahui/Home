@@ -26,7 +26,6 @@ Conferences and Journals
    - Journal: **IEEE Access**, 2020
 7. Yu Zhang, Yahui Long, Chee-Keong, Kwoh. "Deep learning based DNA: RNA triplex forming potential prediction"
    -Journal: **BMC Bioinformatics**, 2020. 
-
 8. Yahui Long and Jiawei Luo. "WMGHMDA: a novel weighted meta-graph-based model for predicting human microbe-disease association on heterogeneous information network"   
    - Journal: **BMC Bioinformatics**, 2019.
 9. Jiawei Luo and Yahui Long. "NTSHMDA: Prediction of human microbe-disease association based on random walk by integrating network topological similarity"
