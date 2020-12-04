@@ -27,3 +27,4 @@ I am a candidate Ph.D at College of Computer Science and Electronic Engineering,
 # Honor and Awards
 - National Scholarship in 2020
 - Excellent Postgraduate in 2020
+- National Encouragement Scholarship in 2013
