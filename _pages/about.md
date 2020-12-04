@@ -24,7 +24,7 @@ I am a candidate Ph.D at College of Computer Science and Electronic Engineering,
 - Ph.D. in Computational Science, Hunan University, China, 09.2017—Current
 - M.S. in Computational Scinece, Hunan University, China, 09.2014—06.2017
 
-# Honor and Awards
+# Honors and Awards
 - National Scholarship in 2020
 - Excellent Postgraduate in 2020
 - National Encouragement Scholarship in 2013
