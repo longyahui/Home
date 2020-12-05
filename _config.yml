@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-Singapore"
-title                    : "Yahui's Homepage"
+title                    : "Yahui Long <font face="华文琥珀" >龙亚辉</font>"
 title_separator          : "-"
 name                     : &name "Long Yahui"
 description              : &description "personal website"
