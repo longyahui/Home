@@ -11,5 +11,5 @@ redirect_from:
 
 Reviewer
 ======
-- **Reviewer** IEEE Journal of Biomedical Health and Informatics (**J-BHI**)
-- **Reviewer** BMC Bioinformatics
+- **Reviewer**, IEEE Journal of Biomedical Health and Informatics (**J-BHI**)
+- **Reviewer**, BMC Bioinformatics
