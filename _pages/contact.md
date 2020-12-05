@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Address: Biomedial Informatics Lab, School of Computer Science and Engineering, Nanyang Technological University, Singapore
+**Address:** Biomedial Informatics Lab, School of Computer Science and Engineering, Nanyang Technological University, Singapore
 
-Email: <yahuilong@hnu.edu.cn> or <N1906558K@e.ntu.edu.sg>
+
+**Email:** <yahuilong@hnu.edu.cn> or <N1906558K@e.ntu.edu.sg>
