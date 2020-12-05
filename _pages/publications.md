@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 You can also find my publications in [Google Scholarchip](https://scholar.google.com/citations?user=lUoNEgcAAAAJ&hl=zh-CN&oi=ao)
+
 {% include base_path %}
 
 1. **Yahui Long**, Min Wu, Chee-Keong Kwoh Jiawei Luo and Xiaoli Li. "Predicting Human Microbe-Drug Associations via Graph Convolutional Network with Conditional Random Field"
