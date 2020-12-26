@@ -24,7 +24,7 @@ I am a candidate Ph.D at College of Computer Science and Electronic Engineering,
 - Ph.D. in Computational Science, Hunan University, China, 09.2017—Current
 - M.S. in Computational Scinece, Hunan University, China, 09.2014—06.2017
 
-# Activaties
+# Activities
 - Oral presenter, The 19 th European Conference on Computational Biology (ECCB 2020), Barcelona, Spain, August 31st-September 8th, 2020.
 - Oral presenter, The IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Seoul, South Korea, December 16-19, 2020.
 
