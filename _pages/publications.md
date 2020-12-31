@@ -16,7 +16,7 @@ You can also find my papers on my [Google Scholar profile](https://scholar.googl
 1. **Yahui Long**, Min Wu, Chee-Keong Kwoh Jiawei Luo and Xiaoli Li. "Predicting Human Microbe-Drug Associations via Graph Convolutional Network with Conditional Random Field"
    - Journal: **Bioinformatics**. 2020.
 2. **Yahui Long**, Min Wu, Yong Liu, Chee-Keong, Kwoh, Jiawei Luo and Xiaoli Li. "Ensembling graph attention networks for human microbe-drug association prediction"
-   - Journal: To be published in a special issue in **Bioinformatics**, 2020.
+   - Journal: Published in a special issue in **Bioinformatics**, 2020.
    - Conference: Accepted by *Proceedings of the 19th European Conference on Computational Biology* (**ECCB 2020**). [Acceptance rate: 21.18%]
 3. **Yahui Long**, Jiawei Luo, Yu Zhang and Yan Xia. "Predicting Human Microbe-Disease Associations via Graph Attention Networks with Inductive Matrix Completion"
    - Journal: Accepted by **Briefings in Bioinformatics**, 2020.
