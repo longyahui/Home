@@ -22,7 +22,7 @@ I am a candidate Ph.D at College of Computer Science and Electronic Engineering,
 # Education
 - Joint Ph.D. at School of Computer Science and Engineering, Nanyang Technological University and A*STAR, Singapore, 2019.09—Current
 - Ph.D. in Computational Science, Hunan University, China, 09.2017—Current
-- M.S. in Computational Scinece, Hunan University, China, 09.2014—06.2017
+- M.S. in Software Engineering, Hunan University, China, 09.2014—06.2017
 
 # Activities
 - Oral presenter, The 19 th European Conference on Computational Biology (ECCB 2020), Barcelona, Spain, August 31st-September 8th, 2020.
