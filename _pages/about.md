@@ -20,8 +20,8 @@ I am a candidate Ph.D at College of Computer Science and Electronic Engineering,
 - Single-cell sequencing data analysis
 
 # Education
-- Joint Ph.D. at School of Computer Science and Engineering, Nanyang Technological University and A*STAR, Singapore, 2019.09—Current
-- Ph.D. in Computer Science, Hunan University, China, 09.2017—Current
+- Joint Ph.D. at School of Computer Science and Engineering, Nanyang Technological University and A*STAR, Singapore, 2019.09—present
+- Ph.D. in Computer Science, Hunan University, China, 09.2017—present
 - M.S. in Software Engineering, Hunan University, China, 09.2014—06.2017
 
 # Activities
