@@ -34,11 +34,11 @@ You can also find my papers on my [Google Scholar profile](https://scholar.googl
 9. **Yahui Long** and Jiawei Luo. "WMGHMDA: a novel weighted meta-graph-based model for predicting human microbe-disease association on heterogeneous information network."   
    - Journal: **BMC Bioinformatics**, 20(01):541, 2019.
 10. Jiawei Luo and **Yahui Long**. "NTSHMDA: Prediction of human microbe-disease association based on random walk by integrating network topological similarity."
-   - Journal: *IEEE/ACM Transactions on Computational Biology and Bioinformatics* (**TCBB**), 17(4), 1341–1351, 2018.
+    - Journal: *IEEE/ACM Transactions on Computational Biology and Bioinformatics* (**TCBB**), 17(4), 1341–1351, 2018.
 11. Caipin Liu, **Yahui Long**, Jianxu Mao, Hui Zhang, Ruizhi Huang and Yang Dai. "An effective image fusion algorithm based on grey relation of similarity and morphology."
-   - Journal: **Journal of Ambient Intelligence and Humanized Computing**, 2018.
+    - Journal: **Journal of Ambient Intelligence and Humanized Computing**, 2018.
 12. Caipin Liu, **Yahui Long** and Jianxu Mao. "Energy-efficient multi-focus image fusion based on neighbor distance and morphology."
-   - Journal: **Optik**, 127, 11354-11363, 2016.   
+    - Journal: **Optik**, 127, 11354-11363, 2016.   
 
   
   
