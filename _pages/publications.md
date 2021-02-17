@@ -14,7 +14,7 @@ You can also find my papers on my [Google Scholar profile](https://scholar.googl
 # Conferences and Journals
 
 1. **Yahui Long**, Min Wu, Yong Liu, Jie Zheng, Chee-Keong Kwoh, Jiawei Luo and Xiaoli Li. "Graph Contextualized Attention Network for Predicting Synthetic Lethality in Human Cancers."
-   *  Journal: **Bioinformatics**, 2021. 
+   - Journal: **Bioinformatics**, 2021. 
 2. **Yahui Long**, Min Wu, Chee-Keong Kwoh, Jiawei Luo and Xiaoli Li. "Predicting Human Microbe-Drug Associations via Graph Convolutional Network with Conditional Random Field."
    - Journal: **Bioinformatics**, 36(19), 4918–4927, 2020.
 3. **Yahui Long**, Min Wu, Yong Liu, Chee-Keong, Kwoh, Jiawei Luo and Xiaoli Li. "Ensembling graph attention networks for human microbe-drug association prediction."
@@ -36,9 +36,9 @@ You can also find my papers on my [Google Scholar profile](https://scholar.googl
 10. Jiawei Luo and **Yahui Long**. "NTSHMDA: Prediction of human microbe-disease association based on random walk by integrating network topological similarity."
    - Journal: *IEEE/ACM Transactions on Computational Biology and Bioinformatics* (**TCBB**), 17(4), 1341–1351, 2018.
 11. Caipin Liu, **Yahui Long**, Jianxu Mao, Hui Zhang, Ruizhi Huang and Yang Dai. "An effective image fusion algorithm based on grey relation of similarity and morphology."
-    - Journal: **Journal of Ambient Intelligence and Humanized Computing**, 2018.
+   - Journal: **Journal of Ambient Intelligence and Humanized Computing**, 2018.
 12. Caipin Liu, **Yahui Long** and Jianxu Mao. "Energy-efficient multi-focus image fusion based on neighbor distance and morphology."
-    - Journal: **Optik**, 127, 11354-11363, 2016.   
+   - Journal: **Optik**, 127, 11354-11363, 2016.   
 
   
   
