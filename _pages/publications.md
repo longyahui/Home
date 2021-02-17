@@ -14,7 +14,7 @@ You can also find my papers on my [Google Scholar profile](https://scholar.googl
 # Conferences and Journals
 
 1. **Yahui Long**, Min Wu, Yong Liu, Jie Zheng, Chee-Keong Kwoh, Jiawei Luo and Xiaoli Li. "Graph Contextualized Attention Network for Predicting Synthetic Lethality in Human Cancers"
-   - Journal: **Bioinformatics**, 2021. 
+   -- Journal: **Bioinformatics**, 2021. 
 2. **Yahui Long**, Min Wu, Chee-Keong Kwoh, Jiawei Luo and Xiaoli Li. "Predicting Human Microbe-Drug Associations via Graph Convolutional Network with Conditional Random Field"
    - Journal: **Bioinformatics**, 36(19), 4918–4927, 2020.
 3. **Yahui Long**, Min Wu, Yong Liu, Chee-Keong, Kwoh, Jiawei Luo and Xiaoli Li. "Ensembling graph attention networks for human microbe-drug association prediction"
