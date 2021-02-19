@@ -20,13 +20,13 @@ I am a candidate Ph.D at College of Computer Science and Electronic Engineering,
 - Single-cell sequencing data analysis
 
 # Education
-- 09.2019—present Joint Ph.D. at School of Computer Science and Engineering, Nanyang Technological University and A*STAR, Singapore
-- 09.2017—present Ph.D. in Computer Science, Hunan University, China
-- 09.2014—06.2017 M.S. in Software Engineering, Hunan University, China 
+- 09.2019—present   Joint Ph.D. at School of Computer Science and Engineering, Nanyang Technological University and A*STAR, Singapore
+- 09.2017—present   Ph.D. in Computer Science, Hunan University, China
+- 09.2014—06.2017   M.S. in Software Engineering, Hunan University, China 
 
 # Activities
-- 09.2020 Oral presenter, The 19 th European Conference on Computational Biology (ECCB 2020), Barcelona, Spain.
-- 12.2020 Oral presenter, The IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Seoul, South Korea.
+- 09.2020   Oral presenter, The 19 th European Conference on Computational Biology (ECCB 2020), Barcelona, Spain.
+- 12.2020   Oral presenter, The IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Seoul, South Korea.
 
 # Honors and Awards
 - 2020 National Scholarship
