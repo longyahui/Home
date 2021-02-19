@@ -21,7 +21,7 @@ I am a candidate Ph.D at College of Computer Science and Electronic Engineering,
 
 # Education
 - 09.2019—present Joint Ph.D. at School of Computer Science and Engineering, Nanyang Technological University and A*STAR, Singapore
-- 09.2017-present Ph.D. in Computer Science, Hunan University, China
+- 09.2017—present Ph.D. in Computer Science, Hunan University, China
 - 09.2014—06.2017 M.S. in Software Engineering, Hunan University, China 
 
 # Activities
