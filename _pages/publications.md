@@ -27,7 +27,7 @@ You can also find my papers on my [Google Scholar profile](https://scholar.googl
 6. **Yahui Long**, Yu Zhang, Min Wu, Shaoliang Peng, Chee-Keong Kwoh, Jiawei Luo and Xiaoli Li. "Predicting Drugs for COVID-19/SARS-CoV-2 via Heterogeneous Graph Attention Networks."
    - Journal: To be published in a special issue in **Methods**, 2021.
    - Conference: Accepted by *IEEE International Conference on Bioinformatics and Biomedicine* (**BIBM 2020**). [[PDF](https://www.researchgate.net/profile/Yahui_Long/publication/345049980_Predicting_Drugs_for_COVID-19SARS-CoV-2_via_Heterogeneous_Graph_Attention_Networks/links/6013a73792851c2d4dfeeeb6/Predicting-Drugs-for-COVID-19-SARS-CoV-2-via-Heterogeneous-Graph-Attention-Networks.pdf)]  
-7. Yu Zhang, **Yahui Long**, Rui Yin, Chee Koeng Kwoh. "DL-CRISPR: A Deep Learning Method for Off-Target Activity Prediction in CRISPR/Cas9 With Data Augmentation."
+7. Yu Zhang, **Yahui Long**, Rui Yin, Chee Keong Kwoh. "DL-CRISPR: A Deep Learning Method for Off-Target Activity Prediction in CRISPR/Cas9 With Data Augmentation."
    - Journal: **IEEE Access**, 2020. [[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9076075)] 
 8. Yu Zhang, **Yahui Long**, Chee-Keong, Kwoh. "Deep learning based DNA: RNA triplex forming potential prediction."
    - Journal: **BMC Bioinformatics**, 2020. [[PDF](https://link.springer.com/article/10.1186/s12859-020-03864-0)]
