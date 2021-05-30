@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D at College of Computer Science and Electronic Engineering, Hunan University, China, supervised by Prof. [Luo Jiawei](http://csee.hnu.edu.cn/people/luojiawei). Since September 2019 till March 2021, I have been visiting Nanyang Technological University and A*STAR, Singapore, under the supervison of Prof. [Kwoh Chee-Keong](https://personal.ntu.edu.sg/asckkwoh/), Prof. [Li Xiaoli](https://personal.ntu.edu.sg/xlli/) and Dr. [Wu Min](https://sites.google.com/site/wumincf/). My thesis is graph-based machine learning algorithms for microbe network prediction. I received my M.S. degree from Hunan University in 2017.
+I am a Ph.D at College of Computer Science and Electronic Engineering, Hunan University, China, supervised by Prof. Luo Jiawei. Since September 2019 till March 2021, I have been visiting Nanyang Technological University and A*STAR, Singapore, under the supervison of Prof. [Kwoh Chee-Keong](https://personal.ntu.edu.sg/asckkwoh/), Prof. [Li Xiaoli](https://personal.ntu.edu.sg/xlli/) and Dr. [Wu Min](https://sites.google.com/site/wumincf/). My thesis is graph-based machine learning algorithms for microbe network prediction. I received my M.S. degree from Hunan University in 2017.
 
 # Research Interests
 **Machine Learning**
