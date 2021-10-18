@@ -20,8 +20,8 @@ I am currently a research fellow at A * STAR, Singapore. I received my Ph.D degr
 - Single-cell sequencing data analysis
 
 # Education
-- 2021.07—Present   Research fellow at A*STAR, Singapore
-- 2019.09—2021.03   Joint Ph.D. in Computer Science, Nanyang Technological University and A*STAR, Singapore
+- 2021.07—Present   Postdoctoral research fellow at A*STAR, Singapore
+- 2019.09—2021.03   Joint Ph.D. in Computer Science, Nanyang Technological University & A*STAR, Singapore
 - 2017.07—2021.06   Ph.D. in Computer Science, Hunan University, China
 - 2014.09—2017.06   M.S. in Software Engineering, Hunan University, China 
 
