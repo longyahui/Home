@@ -11,6 +11,7 @@ redirect_from:
 
 Reviewer
 ======
+- **Reviewer**, Briefings in Bioinformatics 
 - **Reviewer**, IEEE Journal of Biomedical Health and Informatics (**J-BHI**)
 - **Reviewer**, BMC Bioinformatics
 - **Reviewer**, Methods
