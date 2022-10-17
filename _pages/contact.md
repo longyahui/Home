@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-**Address:** Biomedial Informatics Lab, School of Computer Science and Engineering, Nanyang Technological University, Singapore
+**Address:** 8A Biomedical Grove, Immunos, Singapore 138648
 
+**Tel:** (+65)64070745
 
-**Email:** <yahuilong@hnu.edu.cn> or <N1906558K@e.ntu.edu.sg>
+**Email:** <yahuilong@hnu.edu.cn> or <long_yahui@immunol.a-star.edu.sg>
