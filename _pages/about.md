@@ -17,6 +17,7 @@ I am currently a postdoctoral research fellow at A * STAR, Singapore. I received
 - Transfer Learning
 
 **Bioinformatics and Computational Biology**
+- Spatial transcriptomics
 - Single-cell analysis
 - Microbiome data analysis
 
