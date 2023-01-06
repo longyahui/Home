@@ -22,7 +22,7 @@ Advanced deep learning technologies enable for characterizing tissue complexity 
 - Spatial clustering
 - Cell type deconvolution
 - Spatial batch integration
-- Spatial multi-omics integration
+- Spatial/single-cell multi-omics integration
 - Cell-to-cell communication
 
 # EDUATION
