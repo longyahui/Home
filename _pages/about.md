@@ -18,13 +18,12 @@ Advanced deep learning technologies enable for characterizing tissue complexity 
 - Self-supervised learning
 - Transfer Learning
 
-**Bioinformatics and Computational Biology**
+**Single-cell omics and spatial transcriptomics analysis**
 - Spatial clustering
 - Cell type deconvolution
 - Spatial batch integration
 - Spatial multi-omics integration
 - Cell-to-cell communication
-- Microbiome data analysis
 
 # EDUATION
 - 2021.07—Present   Postdoctoral research fellow at A*STAR, Singapore
