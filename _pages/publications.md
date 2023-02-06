@@ -12,7 +12,7 @@ redirect_from:
 You can also find my papers on my [Google Scholar profile](https://scholar.google.com/citations?user=lUoNEgcAAAAJ&hl=zh-CN&oi=ao)
 
 # Conferences and Journals
-1. **Yahui Long**, Kok Siong Ang, Mengwei Li, Kian Long Kelvin Chong, Raman Sethi, Chengwei Zhong, Hang Xu, Zhiwei Ong, Karishma Sachaphibulkij, Ao Chen, Zeng Li, Huazhu Fu, Min Wu, Hsiu Kim Lina Lim, Longqi Liu, Jinmiao Chen. "DeepST: A novel graph self-supervised contrastive learning method for spatially informed clustering, integration, and deconvolution of spatial transcriptomics." bioRxiv, 2022.
+1. **Yahui Long**, Kok Siong Ang, Mengwei Li, Kian Long Kelvin Chong, Raman Sethi, Chengwei Zhong, Hang Xu, Zhiwei Ong, Karishma Sachaphibulkij, Ao Chen, Zeng Li, Huazhu Fu, Min Wu, Hsiu Kim Lina Lim, Longqi Liu, Jinmiao Chen. "Spatially informed clustering, integration, and deconvolution of spatial transcriptomics with GraphST." **Nature Communications**, 2023.
 2. **Yahui Long**, Min Wu, Yong Liu, Yuan Fang, Chee-Keong Kwoh, Jinmiao Chen, Jiawei Luo and Xiaoli Li. "Pre-training Graph Neural Networks for Link
 Prediction in Biomedical Networks."
    - Journal: **Bioinformatics**, 2022. 
