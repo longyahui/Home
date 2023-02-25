@@ -14,15 +14,16 @@ Dr. Yahui Long is a postdoctoral research fellow at A * STAR, Singapore. He rece
 Advanced deep learning technologies enable for characterizing tissue complexity and gaining biological insights into the spatial organization within tissues.  My research is focused on developing deep learning models to model single-cell genomic and spatial transcriptomics data. By systematically integrating multi-view or multi-omics data, I aim to provide user-friendly and computationally efficient tool for both research and clinical applications. Specifically, my research interests mainly include:
 
 **1. Deep Learning**
+- Generative AI for biological application
 - Graph Neural Network for large-scale graph mining
 - Self-supervised learning
 - Transfer Learning
 
 **2. Single-cell Omics and Spatial Transcriptomics Analysis**
+- Spatial/single-cell multi-omics integration
 - Spatial clustering
 - Cell type deconvolution
 - Spatial batch integration
-- Spatial/single-cell multi-omics integration
 - Cell-to-cell communication
 
 # EDUATION
