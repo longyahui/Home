@@ -11,7 +11,7 @@ redirect_from:
 Dr. Yahui Long is a postdoctoral research fellow at A * STAR in Singapore. He received his Ph.D degree in Computer Science from Hunan University in 2021 and has been a visiting student at Nanyang Technological University and A*STAR from 2019 to 2021. During Ph.D., he was awarded with National (Chinese) Scholarship in 2020. 
 
 # RESEARCH FOCUS
-Advanced deep learning technologies enable for characterizing tissue complexity and gaining biological insights into the spatial organization within tissues.  My research is focused on developing deep learning models to model single-cell genomic and spatial transcriptomics data. By systematically integrating multi-view or multi-omics data, I aim to provide user-friendly and computationally efficient tool for both research and clinical applications. Specifically, my research interests mainly include:
+Advanced deep learning technologies have enabled the characterization of tissue complexity and provided biological insights into spatial organization within tissues.  My research is focused on developing deep learning models to analyze single-cell genomic and spatial transcriptomics data. By systematically integrating multi-view or multi-omics data, my aim is to develop user-friendly and computationally efficient tools for both research and clinical applications. Specifically, my research interests include:
 
 **1. Deep Learning**
 - Generative AI for biological application
