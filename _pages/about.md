@@ -37,6 +37,7 @@ Advanced deep learning technologies have enabled the characterization of tissue 
 - 2020.12   Oral presenter, The IEEE International Conference on Bioinformatics and Biomedicine (BIBM), Seoul, South Korea.
 
 # HONOR AND AWARD
+- 2023 Excellent Doctoral Dissertation
 - 2020 National Scholarship
 - 2020 Excellent Postgraduate
 - 2013 National Encouragement Scholarship
