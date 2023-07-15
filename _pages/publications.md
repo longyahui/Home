@@ -12,8 +12,8 @@ redirect_from:
 You can also find my papers on my [Google Scholar profile](https://scholar.google.com/citations?user=lUoNEgcAAAAJ&hl=zh-CN&oi=ao)
 
 # Conferences and Journals
-1. Xuejing Shi, Juntong Zhu, **Yahui Long***, and Cheng Liang. "Identifying spatial domains of spatially resolved transcriptomics via multi-view graph convolutional networks". Briefings in Bioinformatics. 2023.
-2. Bo Wang, Jiawei Luo, Ying Liu, Wanwan Shi, Zehao Xiong, Cong Shen and **Yahui Long**. "Spatial-MGCN: a novel multi-view graph convolutional network for identifying spatial domains with attention mechanism". Briefings in Bioinformatics. 2023.
+1. Xuejing Shi, Juntong Zhu, **Yahui Long***, and Cheng Liang. "Identifying spatial domains of spatially resolved transcriptomics via multi-view graph convolutional networks". **Briefings in Bioinformatics**. 2023.
+2. Bo Wang, Jiawei Luo, Ying Liu, Wanwan Shi, Zehao Xiong, Cong Shen and **Yahui Long**. "Spatial-MGCN: a novel multi-view graph convolutional network for identifying spatial domains with attention mechanism". **Briefings in Bioinformatics**. 2023.
 3. **Yahui Long**, Kok Siong Ang, Sha Liao, Raman Sethi, Yang Heng, Chengwei Zhong, Hang Xu, Nazihah Husna, Min Jian, Lai Guan Ng, Ao Chen, Nicholas RJ Gascoigne, Xun Xu, and Jinmiao Chen. "Integrated analysis of spatial multi-omics with SpatialGlue". bioRxiv. 2023.
 4. **Yahui Long**, Kok Siong Ang, Mengwei Li, Kian Long Kelvin Chong, Raman Sethi, Chengwei Zhong, Hang Xu, Zhiwei Ong, Karishma Sachaphibulkij, Ao Chen, Zeng Li, Huazhu Fu, Min Wu, Hsiu Kim Lina Lim, Longqi Liu, Jinmiao Chen. "Spatially informed clustering, integration, and deconvolution of spatial transcriptomics with GraphST." **Nature Communications**, 14, 1155 (2023).
 5. **Yahui Long**, Min Wu, Yong Liu, Yuan Fang, Chee-Keong Kwoh, Jinmiao Chen, Jiawei Luo and Xiaoli Li. "Pre-training Graph Neural Networks for Link
