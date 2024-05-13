@@ -13,4 +13,4 @@ redirect_from:
 
 **Tel:** (+65)64070745
 
-**Email:** <yahuilong@hnu.edu.cn> or <long_yahui@immunol.a-star.edu.sg>
+**Email:** <yahuilong@hnu.edu.cn> or <Long_Yahui@imcb.a-star.edu.sg>
