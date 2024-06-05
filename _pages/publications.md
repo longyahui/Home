@@ -12,10 +12,10 @@ redirect_from:
 You can also find my papers on my [Google Scholar profile](https://scholar.google.com/citations?user=lUoNEgcAAAAJ&hl=zh-CN&oi=ao)
 
 # Conferences and Journals
-1. BingXue Du, **Yahui Long**, Xiaoli Li, Min Wu, and JianYu Shi. "CMMS-GCL: Cross-Modality Metabolic Stability Prediction with Graph Contrastive Learning". **Bioinformatics**. 2023.
-2. Xuejing Shi, Juntong Zhu, **Yahui Long***, and Cheng Liang. "Identifying spatial domains of spatially resolved transcriptomics via multi-view graph convolutional networks". **Briefings in Bioinformatics**. 2023.
-3. Bo Wang, Jiawei Luo, Ying Liu, Wanwan Shi, Zehao Xiong, Cong Shen and **Yahui Long**. "Spatial-MGCN: a novel multi-view graph convolutional network for identifying spatial domains with attention mechanism". **Briefings in Bioinformatics**. 2023.
-4. **Yahui Long**, Kok Siong Ang, Sha Liao, Raman Sethi, Yang Heng, Chengwei Zhong, Hang Xu, Nazihah Husna, Min Jian, Lai Guan Ng, Ao Chen, Nicholas RJ Gascoigne, Xun Xu, and Jinmiao Chen. "Integrated analysis of spatial multi-omics with SpatialGlue". bioRxiv. 2023.
+1. **Yahui Long**, Kok Siong Ang, Raman Sethi, Sha Liao, Yang Heng, Lynn van Olst, Shuchen Ye, Chengwei Zhong, Hang Xu, Di Zhang, Immanuel Kwok, Nazihah Husna, Min Jian, Lai Guan Ng, Ao Chen, Nicholas RJ Gascoigne, David Gate, Rong Fan, Xun Xu, and Jinmiao Chen. "Deciphering spatial domains from spatial multi-omics with SpatialGlue". Nature Methods (Accepted). 2024.
+2. BingXue Du, **Yahui Long**, Xiaoli Li, Min Wu, and JianYu Shi. "CMMS-GCL: Cross-Modality Metabolic Stability Prediction with Graph Contrastive Learning". **Bioinformatics**. 2023.
+3. Xuejing Shi, Juntong Zhu, **Yahui Long***, and Cheng Liang. "Identifying spatial domains of spatially resolved transcriptomics via multi-view graph convolutional networks". **Briefings in Bioinformatics**. 2023.
+4. Bo Wang, Jiawei Luo, Ying Liu, Wanwan Shi, Zehao Xiong, Cong Shen and **Yahui Long**. "Spatial-MGCN: a novel multi-view graph convolutional network for identifying spatial domains with attention mechanism". **Briefings in Bioinformatics**. 2023.
 5. **Yahui Long**, Kok Siong Ang, Mengwei Li, Kian Long Kelvin Chong, Raman Sethi, Chengwei Zhong, Hang Xu, Zhiwei Ong, Karishma Sachaphibulkij, Ao Chen, Zeng Li, Huazhu Fu, Min Wu, Hsiu Kim Lina Lim, Longqi Liu, Jinmiao Chen. "Spatially informed clustering, integration, and deconvolution of spatial transcriptomics with GraphST." **Nature Communications**, 14, 1155 (2023).
 6. **Yahui Long**, Min Wu, Yong Liu, Yuan Fang, Chee-Keong Kwoh, Jinmiao Chen, Jiawei Luo and Xiaoli Li. "Pre-training Graph Neural Networks for Link
 Prediction in Biomedical Networks."
