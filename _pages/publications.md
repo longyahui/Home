@@ -12,7 +12,7 @@ redirect_from:
 You can also find my papers on my [Google Scholar profile](https://scholar.google.com/citations?user=lUoNEgcAAAAJ&hl=zh-CN&oi=ao)
 
 # Conferences and Journals
-1. **Yahui Long**, Kok Siong Ang, Raman Sethi, Sha Liao, Yang Heng, Lynn van Olst, Shuchen Ye, Chengwei Zhong, Hang Xu, Di Zhang, Immanuel Kwok, Nazihah Husna, Min Jian, Lai Guan Ng, Ao Chen, Nicholas RJ Gascoigne, David Gate, Rong Fan, Xun Xu, and Jinmiao Chen. "Deciphering spatial domains from spatial multi-omics with SpatialGlue". Nature Methods (Accepted). 2024.
+1. **Yahui Long**, Kok Siong Ang, Raman Sethi, Sha Liao, Yang Heng, Lynn van Olst, Shuchen Ye, Chengwei Zhong, Hang Xu, Di Zhang, Immanuel Kwok, Nazihah Husna, Min Jian, Lai Guan Ng, Ao Chen, Nicholas RJ Gascoigne, David Gate, Rong Fan, Xun Xu, and Jinmiao Chen. "Deciphering spatial domains from spatial multi-omics with SpatialGlue". **Nature Methods** (Accepted). 2024.
 2. BingXue Du, **Yahui Long**, Xiaoli Li, Min Wu, and JianYu Shi. "CMMS-GCL: Cross-Modality Metabolic Stability Prediction with Graph Contrastive Learning". **Bioinformatics**. 2023.
 3. Xuejing Shi, Juntong Zhu, **Yahui Long***, and Cheng Liang. "Identifying spatial domains of spatially resolved transcriptomics via multi-view graph convolutional networks". **Briefings in Bioinformatics**. 2023.
 4. Bo Wang, Jiawei Luo, Ying Liu, Wanwan Shi, Zehao Xiong, Cong Shen and **Yahui Long**. "Spatial-MGCN: a novel multi-view graph convolutional network for identifying spatial domains with attention mechanism". **Briefings in Bioinformatics**. 2023.
