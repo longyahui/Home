@@ -12,7 +12,7 @@ redirect_from:
 You can also find my papers on my [Google Scholar profile](https://scholar.google.com/citations?user=lUoNEgcAAAAJ&hl=zh-CN&oi=ao)
 
 # Conferences and Journals
-1. **Yahui Long**, Kok Siong Ang, Raman Sethi, Sha Liao, Yang Heng, Lynn van Olst, Shuchen Ye, Chengwei Zhong, Hang Xu, Di Zhang, Immanuel Kwok, Nazihah Husna, Min Jian, Lai Guan Ng, Ao Chen, Nicholas RJ Gascoigne, David Gate, Rong Fan, Xun Xu, and Jinmiao Chen. "Deciphering spatial domains from spatial multi-omics with SpatialGlue". **Nature Methods** (Accepted). 2024.
+1. **Yahui Long**, Kok Siong Ang, Raman Sethi, Sha Liao, Yang Heng, Lynn van Olst, Shuchen Ye, Chengwei Zhong, Hang Xu, Di Zhang, Immanuel Kwok, Nazihah Husna, Min Jian, Lai Guan Ng, Ao Chen, Nicholas RJ Gascoigne, David Gate, Rong Fan, Xun Xu, and Jinmiao Chen. "Deciphering spatial domains from spatial multi-omics with SpatialGlue". **Nature Methods**. 2024.
 2. Hang Xu, Huazhu Fu, **Yahui Long**, Kok Siong Ang, Raman Sethi, Kelvin Chong, Mengwei Li, Rom Uddamvathanak, Hong Kai Lee, Jingjing Ling, Ao Chen, Ling Shao, Longqi Liu, and Jinmiao Chen. "Unsupervised spatially embedded deep representation of spatial transcriptomics". **Genome Medicine**. 16, 12, 2024. 
 3. BingXue Du, **Yahui Long**, Xiaoli Li, Min Wu, and JianYu Shi. "CMMS-GCL: Cross-Modality Metabolic Stability Prediction with Graph Contrastive Learning". **Bioinformatics**. 2023.
 4. Xuejing Shi, Juntong Zhu, **Yahui Long***, and Cheng Liang. "Identifying spatial domains of spatially resolved transcriptomics via multi-view graph convolutional networks". **Briefings in Bioinformatics**. 2023.
