@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 # BIOGRAPHY
-Dr. Yahui Long is a research scientist at A * STAR in Singapore. He received his Ph.D degree in Computer Science from Hunan University in 2021 and has been a visiting student at Nanyang Technological University and A*STAR from 2019 to 2021, under the supervision of Prof. [Xiaoli LI](https://scholar.google.com/citations?user=E3yQKloAAAAJ&hl=en) (IEEE Fellow) and Prof. [Chee Keong KWOH](https://scholar.google.com/citations?user=jVn0wDMAAAAJ&hl=en). During Ph.D., he was awarded with National (Chinese) Scholarship in 2020. 
+Dr. Long is a research scientist at A * STAR in Singapore. He received his Ph.D degree in Computer Science from Hunan University in 2021 and has been a visiting student at Nanyang Technological University and A*STAR from 2019 to 2021, under the supervision of Prof. [Xiaoli LI](https://scholar.google.com/citations?user=E3yQKloAAAAJ&hl=en) (IEEE Fellow) and Prof. [Chee Keong KWOH](https://scholar.google.com/citations?user=jVn0wDMAAAAJ&hl=en).  
 
 # RESEARCH FOCUS
-Advanced deep learning technologies have enabled the characterization of tissue complexity and provided biological insights into spatial organization within tissues.  My research is focused on developing deep learning models to analyze single-cell genomic and spatial transcriptomics data. By systematically integrating multi-view or multi-omics data, my aim is to develop user-friendly and computationally efficient tools for both research and clinical applications. Specifically, my research interests include:
+Advanced deep learning technologies have enabled the characterization of tissue complexity and provided biological insights into spatial organization within tissues. Dr. Long's research focus is on developing AI models to analyze single-cell genomic and spatial transcriptomics data. Dr. Long's long-term research goals aim to bridge the gap between computational advancements and practical applications in biological research, ultimately contributing to a deeper understanding of health and disease.
+
+Specifically, my research interests include:
 
 **1. Deep Learning**
-- Generative AI for biological application
-- Graph Neural Network for large-scale graph mining
-- Self-supervised learning
-- Transfer Learning
+- Generative AI for biological applications
+- Graph Foundation Model  
 
 **2. Single-cell Omics and Spatial Transcriptomics Analysis**
 - Spatial/single-cell multi-omics integration
