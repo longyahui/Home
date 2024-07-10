@@ -12,7 +12,7 @@ redirect_from:
 You can also find my papers on my [Google Scholar profile](https://scholar.google.com/citations?user=lUoNEgcAAAAJ&hl=zh-CN&oi=ao)
 
 # Conferences and Journals
-1. **Yahui Long**, Kok Siong Ang, Raman Sethi, Sha Liao, Yang Heng, Lynn van Olst, Shuchen Ye, Chengwei Zhong, Hang Xu, Di Zhang, Immanuel Kwok, Nazihah Husna, Min Jian, Lai Guan Ng, Ao Chen, Nicholas RJ Gascoigne, David Gate, Rong Fan, Xun Xu, and Jinmiao Chen. "Deciphering spatial domains from spatial multi-omics with SpatialGlue". **Nature Methods**. 2024.
+1. **Yahui Long**, Kok Siong Ang, Raman Sethi, Sha Liao, Yang Heng, Lynn van Olst, Shuchen Ye, Chengwei Zhong, Hang Xu, Di Zhang, Immanuel Kwok, Nazihah Husna, Min Jian, Lai Guan Ng, Ao Chen, Nicholas RJ Gascoigne, David Gate, Rong Fan, Xun Xu, and Jinmiao Chen. "Deciphering spatial domains from spatial multi-omics with SpatialGlue". **Nature Methods**. 2024. [[PDF](https://www.nature.com/articles/s41592-024-02316-4)] [[Code & Data](https://github.com/JinmiaoChenLab/SpatialGlue)]
 2. Raman Sethi, Kok Siong Ang, Mengwei Li, **Yahui Long**, Jingjing Ling, Jinmiao Chen. "ezSingleCell: an integrated one-stop single-cell and spatial omics analysis platform for bench scientists". **Nature Communications**. 2024.
 3. Hang Xu, Huazhu Fu, **Yahui Long**, Kok Siong Ang, Raman Sethi, Kelvin Chong, Mengwei Li, Rom Uddamvathanak, Hong Kai Lee, Jingjing Ling, Ao Chen, Ling Shao, Longqi Liu, and Jinmiao Chen. "Unsupervised spatially embedded deep representation of spatial transcriptomics". **Genome Medicine**. 16, 12, 2024. 
 4. BingXue Du, **Yahui Long**, Xiaoli Li, Min Wu, and JianYu Shi. "CMMS-GCL: Cross-Modality Metabolic Stability Prediction with Graph Contrastive Learning". **Bioinformatics**. 2023.
