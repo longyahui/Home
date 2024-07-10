@@ -13,19 +13,20 @@ You can also find my papers on my [Google Scholar profile](https://scholar.googl
 
 # Conferences and Journals
 1. **Yahui Long**, Kok Siong Ang, Raman Sethi, Sha Liao, Yang Heng, Lynn van Olst, Shuchen Ye, Chengwei Zhong, Hang Xu, Di Zhang, Immanuel Kwok, Nazihah Husna, Min Jian, Lai Guan Ng, Ao Chen, Nicholas RJ Gascoigne, David Gate, Rong Fan, Xun Xu, and Jinmiao Chen. "Deciphering spatial domains from spatial multi-omics with SpatialGlue". **Nature Methods**. 2024.
-2. Hang Xu, Huazhu Fu, **Yahui Long**, Kok Siong Ang, Raman Sethi, Kelvin Chong, Mengwei Li, Rom Uddamvathanak, Hong Kai Lee, Jingjing Ling, Ao Chen, Ling Shao, Longqi Liu, and Jinmiao Chen. "Unsupervised spatially embedded deep representation of spatial transcriptomics". **Genome Medicine**. 16, 12, 2024. 
-3. BingXue Du, **Yahui Long**, Xiaoli Li, Min Wu, and JianYu Shi. "CMMS-GCL: Cross-Modality Metabolic Stability Prediction with Graph Contrastive Learning". **Bioinformatics**. 2023.
-4. Xuejing Shi, Juntong Zhu, **Yahui Long***, and Cheng Liang. "Identifying spatial domains of spatially resolved transcriptomics via multi-view graph convolutional networks". **Briefings in Bioinformatics**. 2023.
-5. Bo Wang, Jiawei Luo, Ying Liu, Wanwan Shi, Zehao Xiong, Cong Shen and **Yahui Long**. "Spatial-MGCN: a novel multi-view graph convolutional network for identifying spatial domains with attention mechanism". **Briefings in Bioinformatics**. 2023.
-6. **Yahui Long**, Kok Siong Ang, Mengwei Li, Kian Long Kelvin Chong, Raman Sethi, Chengwei Zhong, Hang Xu, Zhiwei Ong, Karishma Sachaphibulkij, Ao Chen, Zeng Li, Huazhu Fu, Min Wu, Hsiu Kim Lina Lim, Longqi Liu, Jinmiao Chen. "Spatially informed clustering, integration, and deconvolution of spatial transcriptomics with GraphST." **Nature Communications**, 14, 1155 (2023).
-7. **Yahui Long**, Min Wu, Yong Liu, Yuan Fang, Chee-Keong Kwoh, Jinmiao Chen, Jiawei Luo and Xiaoli Li. "Pre-training Graph Neural Networks for Link
+2. Raman Sethi, Kok Siong Ang, Mengwei Li, **Yahui Long**, Jingjing Ling, Jinmiao Chen. "ezSingleCell: an integrated one-stop single-cell and spatial omics analysis platform for bench scientists". **Nature Communications**. 2024.
+3. Hang Xu, Huazhu Fu, **Yahui Long**, Kok Siong Ang, Raman Sethi, Kelvin Chong, Mengwei Li, Rom Uddamvathanak, Hong Kai Lee, Jingjing Ling, Ao Chen, Ling Shao, Longqi Liu, and Jinmiao Chen. "Unsupervised spatially embedded deep representation of spatial transcriptomics". **Genome Medicine**. 16, 12, 2024. 
+4. BingXue Du, **Yahui Long**, Xiaoli Li, Min Wu, and JianYu Shi. "CMMS-GCL: Cross-Modality Metabolic Stability Prediction with Graph Contrastive Learning". **Bioinformatics**. 2023.
+5. Xuejing Shi, Juntong Zhu, **Yahui Long***, and Cheng Liang. "Identifying spatial domains of spatially resolved transcriptomics via multi-view graph convolutional networks". **Briefings in Bioinformatics**. 2023.
+6. Bo Wang, Jiawei Luo, Ying Liu, Wanwan Shi, Zehao Xiong, Cong Shen and **Yahui Long**. "Spatial-MGCN: a novel multi-view graph convolutional network for identifying spatial domains with attention mechanism". **Briefings in Bioinformatics**. 2023.
+7. **Yahui Long**, Kok Siong Ang, Mengwei Li, Kian Long Kelvin Chong, Raman Sethi, Chengwei Zhong, Hang Xu, Zhiwei Ong, Karishma Sachaphibulkij, Ao Chen, Zeng Li, Huazhu Fu, Min Wu, Hsiu Kim Lina Lim, Longqi Liu, Jinmiao Chen. "Spatially informed clustering, integration, and deconvolution of spatial transcriptomics with GraphST." **Nature Communications**, 14, 1155 (2023).
+8. **Yahui Long**, Min Wu, Yong Liu, Yuan Fang, Chee-Keong Kwoh, Jinmiao Chen, Jiawei Luo and Xiaoli Li. "Pre-training Graph Neural Networks for Link
 Prediction in Biomedical Networks."
    - Journal: **Bioinformatics**, 2022. 
-8. **Yahui Long**, Min Wu, Yong Liu, Jie Zheng, Chee-Keong Kwoh, Jiawei Luo and Xiaoli Li. "Graph Contextualized Attention Network for Predicting Synthetic Lethality in Human Cancers."
+9. **Yahui Long**, Min Wu, Yong Liu, Jie Zheng, Chee-Keong Kwoh, Jiawei Luo and Xiaoli Li. "Graph Contextualized Attention Network for Predicting Synthetic Lethality in Human Cancers."
    - Journal: **Bioinformatics**, 2021. [[PDF](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btab110/6145565)] [[Code & Data](https://github.com/longyahui/GCATSL)]
-9. **Yahui Long**, Min Wu, Chee-Keong Kwoh, Jiawei Luo and Xiaoli Li. "Predicting Human Microbe-Drug Associations via Graph Convolutional Network with Conditional Random Field."
+10. **Yahui Long**, Min Wu, Chee-Keong Kwoh, Jiawei Luo and Xiaoli Li. "Predicting Human Microbe-Drug Associations via Graph Convolutional Network with Conditional Random Field."
    - Journal: **Bioinformatics**, 36(19), 4918–4927, 2020. [[PDF](https://academic.oup.com/bioinformatics/article-abstract/36/19/4918/5864717?redirectedFrom=fulltext)] [[Code & Data](https://github.com/longyahui/GCNMDA)]
-10. **Yahui Long**, Min Wu, Yong Liu, Chee-Keong, Kwoh, Jiawei Luo and Xiaoli Li. "Ensembling graph attention networks for human microbe-drug association prediction."
+11. **Yahui Long**, Min Wu, Yong Liu, Chee-Keong, Kwoh, Jiawei Luo and Xiaoli Li. "Ensembling graph attention networks for human microbe-drug association prediction."
    - Journal: Published in a special issue in **Bioinformatics**, 36, i779–i786, 2020. [[PDF](https://academic.oup.com/bioinformatics/article/36/Supplement_2/i779/6055932?searchresult=1)] [[Code & Data](https://github.com/longyahui/EGATMDA)]
    - Conference: Accepted by *Proceedings of the 19th European Conference on Computational Biology* (**ECCB 2020**). [Acceptance rate: 21.18%]
 11. **Yahui Long**, Jiawei Luo, Yu Zhang and Yan Xia. "Predicting Human Microbe-Disease Associations via Graph Attention Networks with Inductive Matrix Completion."
