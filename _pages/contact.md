@@ -11,6 +11,6 @@ redirect_from:
 
 **Address:** 8A Biomedical Grove, Immunos, Singapore 138648
 
-**Tel:** (+65)64070745
+**Tel:** (+65)93955029
 
-**Email:** <yahuilong@hnu.edu.cn> or <Long_Yahui@imcb.a-star.edu.sg>
+**Email:** <yahuilong1990@gmail.com> or <yahuilong@hnu.edu.cn>
